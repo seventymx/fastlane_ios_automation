@@ -1,0 +1,4 @@
+# Ignore fastlane logs
+*.xml
+# Ignore all prvisioning profiles
+*.mobileprovision
